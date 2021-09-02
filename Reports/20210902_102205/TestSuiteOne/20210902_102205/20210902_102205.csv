@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuiteOne,Chrome 93.0.4577.63,,,2021-09-02 10:22:09,2021-09-02 10:22:42,33.282s,PASSED
+,,,,,,,
+Test Cases/Test 1 testerrr uy,Chrome 93.0.4577.63,,,2021-09-02 10:22:10,2021-09-02 10:22:36,26.784s,PASSED
+"openBrowser("""")",Chrome 93.0.4577.63,,,2021-09-02 10:22:10,2021-09-02 10:22:15,4.498s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/"")",Chrome 93.0.4577.63,,,2021-09-02 10:22:15,2021-09-02 10:22:25,10.254s,PASSED
+"setText(findTestObject(""Object Repository/Test1_OR/Page_OrangeHRM/input_LOGIN Panel_txtUsername""), ""Admin"")",Chrome 93.0.4577.63,,,2021-09-02 10:22:25,2021-09-02 10:22:26,1.105s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test1_OR/Page_OrangeHRM/input_Username_txtPassword""), ""hUKwJTbofgPU9eVlw/CnDQ=="")",Chrome 93.0.4577.63,,,2021-09-02 10:22:26,2021-09-02 10:22:27,0.748s,PASSED
+"click(findTestObject(""Object Repository/Test1_OR/Page_OrangeHRM/input_Password_Submit""))",Chrome 93.0.4577.63,,,2021-09-02 10:22:27,2021-09-02 10:22:34,7.444s,PASSED
+"click(findTestObject(""Object Repository/Test1_OR/Page_OrangeHRM/input_People who like this post_Subscriber_link""))",Chrome 93.0.4577.63,,,2021-09-02 10:22:34,2021-09-02 10:22:35,1.039s,PASSED
+closeBrowser(),Chrome 93.0.4577.63,,,2021-09-02 10:22:35,2021-09-02 10:22:36,1.066s,PASSED
+,,,,,,,
+Test Cases/Test 2,Chrome 93.0.4577.63,,,2021-09-02 10:22:36,2021-09-02 10:22:42,5.959s,PASSED
+"openBrowser(""https://translate.google.com/?sl=en&tl=id&text=My%20experience%20in%20competitive%20programming%20has%20helped%20me%20tremendously%20in%20applying%20for%20internship%20positions.%20&op=translate"")",Chrome 93.0.4577.63,,,2021-09-02 10:22:37,2021-09-02 10:22:41,4.218s,PASSED
+closeBrowser(),Chrome 93.0.4577.63,,,2021-09-02 10:22:41,2021-09-02 10:22:42,1.453s,PASSED
